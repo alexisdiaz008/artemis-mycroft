@@ -23,4 +23,4 @@ tensorflow==1.8.0
 termcolor==1.1.0
 typing==3.6.4
 wavio==0.0.3
-Werkzeug==0.14.1
+Werkzeug==0.15.3
