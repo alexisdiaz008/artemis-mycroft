@@ -1,9 +1,13 @@
 # artemis-mycroft
 prebuilt precise model
 
-Files container within are for use as a custom wake word for mycroft using precise as the listener,
+Files contained within are for use as a custom wake word for mycroft using precise as the listener,
 the following are directions for a custom setup using this in tandem with a raspi with a 7 inch touchscreen running on raspbian and MATE,
  my wake screen skill, react mycroft gui, mycroft, and precise:
+
+
+Raspi Setup
+----------------------------------
 
     Download and Flash Raspbian Buster Lite Image
 
