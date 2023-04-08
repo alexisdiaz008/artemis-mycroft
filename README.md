@@ -92,6 +92,10 @@ Install firefox for later use by react gui
 
     bash dev_setup.sh
 
+    in ~/.zshrc , or bashrc if helpers do not work (mycroft-help) add this line:
+    
+    source ~/.profile_mycroft
+    
     cd skills
 
     git clone git@github.com:alexisdiaz008/screen-wake-on-wake-word-skill.git
